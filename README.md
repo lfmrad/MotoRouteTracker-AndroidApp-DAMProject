@@ -10,61 +10,33 @@ Wheely is an Android app built for motorcyclists, providing tools to record, bro
 
 ### Screenshots: Emulator
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="text-align: center; margin: 2px;">
-        <sub>Track Recording</sub><br/>
-        <img src="demo-media/track-recording.jpeg" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Track Viewer</sub><br/>
-        <img src="demo-media/track-viewer.jpeg" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Feed</sub><br/>
-        <img src="demo-media/feed.jpeg" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Profile</sub><br/>
-        <img src="demo-media/profile.jpeg" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Vehicle Stats</sub><br/>
-        <img src="demo-media/vehicle-stats.jpeg" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Login</sub><br/>
-        <img src="demo-media/login.jpeg" width="180"/>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><sub>Track Recording</sub><br/><img src="demo-media/track-recording.jpeg" width="180"/></td>
+    <td align="center"><sub>Track Viewer</sub><br/><img src="demo-media/track-viewer.jpeg" width="180"/></td>
+    <td align="center"><sub>Feed</sub><br/><img src="demo-media/feed.jpeg" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Profile</sub><br/><img src="demo-media/profile.jpeg" width="180"/></td>
+    <td align="center"><sub>Vehicle Stats</sub><br/><img src="demo-media/vehicle-stats.jpeg" width="180"/></td>
+    <td align="center"><sub>Login</sub><br/><img src="demo-media/login.jpeg" width="180"/></td>
+  </tr>
+</table>
 
 ### GIF Demos: Test Device
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-    <div style="text-align: center; margin: 2px;">
-        <sub>Starting tracking</sub><br/>
-        <img src="demo-media/s10e-start.gif" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Foreground service & UI restore</sub><br/>
-        <img src="demo-media/s10e-foreground-serv.gif" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Live tracking interactions</sub><br/>
-        <img src="demo-media/s10e-zoom.gif" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Stopping and saving</sub><br/>
-        <img src="demo-media/s10e-saving.gif" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>Browsing saved tracks</sub><br/>
-        <img src="demo-media/s10e-viewing.gif" width="180"/>
-    </div>
-    <div style="text-align: center; margin: 2px;">
-        <sub>General UI & localization</sub><br/>
-        <img src="demo-media/s10e-general-ui.gif" width="180"/>
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><sub>Starting tracking</sub><br/><img src="demo-media/s10e-start.gif" width="180"/></td>
+    <td align="center"><sub>Foreground service & UI restore</sub><br/><img src="demo-media/s10e-foreground-serv.gif" width="180"/></td>
+    <td align="center"><sub>Live tracking interactions</sub><br/><img src="demo-media/s10e-zoom.gif" width="180"/></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Stopping and saving</sub><br/><img src="demo-media/s10e-saving.gif" width="180"/></td>
+    <td align="center"><sub>Browsing saved tracks</sub><br/><img src="demo-media/s10e-viewing.gif" width="180"/></td>
+    <td align="center"><sub>General UI & localization</sub><br/><img src="demo-media/s10e-general-ui.gif" width="180"/></td>
+  </tr>
+</table>
 
 
 ## Features
